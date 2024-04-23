@@ -1,6 +1,6 @@
 # Sweta Panwar | Web Developer
 
-Welcome to my GitHub profile! I'm Sweta Panwar, a specialized web developer with a passion for crafting immersive digital experiences. Dive into the realm of digital innovation with me as we explore the intersection of creativity and cutting-edge technology.
+Welcome to my GitHub profile! I'm Sweta Panwar, a specialized web developer with a passion for crafting immersive digital experiences. Dive into the reality of digital innovation with me as we explore the intersection of creativity and cutting-edge technology.
 
 
 ## ℹ️ About Me
@@ -41,13 +41,13 @@ A basic food website built with Angular, allowing users to browse and add food i
   - *2023 - 2027*
 
 - **Intermediate (12th Grade)**
-  - *Government Inter College Pathri, Haridwar, Uttarakhand, India*
+  - *Atal Utkrisht Government Inter College Pathri, Haridwar, Uttarakhand, India*
   - *Science Stream*
   - *Percentage: 71.20%*
   - *2023*
 
 - **High School (10th Grade)**
-  - *Atal Utkrisht Government Inter College Pathri, Haridwar, Uttarakhand, India*
+  - *Government Inter College Pathri, Haridwar, Uttarakhand, India*
   - *Science Stream*
   - *Percentage: 87.00%*
   - *2021*
